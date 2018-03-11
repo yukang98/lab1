@@ -1,0 +1,22 @@
+Script started on Sun, Mar 11, 2018 10:21:46 PM
+whoa]0;~
+[32mY.K. Kua@LAPTOP-8V2QP4TN [33m~[0m
+$ whoawho[K[K[K[K[K[K[Kwhoami;pwd
+Y.K. Kua
+/home/Y.K. Kua
+]0;~
+[32mY.K. Kua@LAPTOP-8V2QP4TN [33m~[0m
+$ got[K[Kit config -l
+user.email=kykang98@gmail.com
+user.name=yukang98
+]0;~
+[32mY.K. Kua@LAPTOP-8V2QP4TN [33m~[0m
+$ git cloone [K[K[K[K[Kone http;//[K[K[K://github.com [K/yukang98/lab1.git
+Cloning into 'lab1'...
+warning: redirecting to https://github.com/yukang98/lab1.git/
+warning: You appear to have cloned an empty repository.
+]0;~
+[32mY.K. Kua@LAPTOP-8V2QP4TN [33m~[0m
+$ exit
+
+Script done on Sun, Mar 11, 2018 10:22:33 PM
